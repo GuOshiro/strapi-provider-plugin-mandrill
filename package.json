@@ -16,5 +16,6 @@
     "email",
     "strapi",
     "mandrill"
-  ]
+  ],
+  "repository": "https://github.com/GuOshiro/strapi-provider-plugin-mandrill.git"
 }

@@ -11,7 +11,7 @@ npm install @guoshiro/strapi-provider-plugin-mandrill
 or
 
 ```sh
-yarn add @palmabit/strapi-provider-plugin-mandrill
+yarn add @guoshiro/strapi-provider-plugin-mandrill
 ```
 
 
