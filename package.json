@@ -1,0 +1,20 @@
+{
+  "name": "strapi-provider-plugin-mandrill",
+  "version": "1.0.0",
+  "author": "Gustavo Oshiro",
+  "license": "MIT",
+  "dependencies": {
+    "@mailchimp/mailchimp_transactional": "^1.0.50"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "description": "Mandrill provider for strapi email",
+  "homepage": "https://github.com/guoshiro",
+  "keywords": [
+    "email",
+    "strapi",
+    "mandrill"
+  ]
+}
