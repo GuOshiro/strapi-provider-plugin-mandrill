@@ -1,4 +1,4 @@
-# Strapi app version plugin
+# Strapi Mandrill plugin
 
 Simple Mandrill plugin for Strapi 4 
 
